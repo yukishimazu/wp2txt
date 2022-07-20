@@ -11,6 +11,7 @@ require "wp2txt/article"
 require "wp2txt/utils"
 require "wp2txt/progressbar"
 # require "wp2txt/mw_api"
+require 'etc'
 
 begin
   require "bzip2-ruby"
